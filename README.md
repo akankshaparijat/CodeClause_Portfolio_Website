@@ -9,16 +9,24 @@ The website provides you with a dynamic and responsive presentation of your work
 It took me nearly 8 days to build this website.
 
 As an end product this website showcases-
+
 My Experience
+
 My Work
+
 My Skills
 
 # Technologies used in this project
 HTML5
+
 CSS3
+
 JavaScript
+
 Git
+
 GitHub
+
 VSCode
 
 # Features
